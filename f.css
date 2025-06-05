@@ -1,0 +1,46 @@
+
+.main .tital{}
+.main .tital .subtital{}
+.main .tital .subtital .protect{}
+.main .tital .subtital .protect .aa{
+ text-decoration: none;
+ color: #1877F2;
+}
+.main .tital .subtital .protect .aaa{
+text-align: center;
+ font-size: 15px ;
+}
+.main .tital .subtital .logo{
+ text-align: center;
+}
+.main .tital .subtital .form{
+ width: 1000px;
+ height: 50px;
+}
+.main .tital .subtital .form .formM{
+width: 100px;
+ height: 50px;
+}
+.main .tital .subtital .form .formp{}
+.main .tital .subtital .form .submit{}
+.main .tital .subtital .rel{
+ text-align: center;
+}
+.main .tital .subtital .rel .forget{
+  text-decoration: none;
+  color: black;
+}
+.main .tital .subtital .rel .create{
+ width: 320px; 
+ height: 30px;
+border-radius: 30px;
+color: #1877F2;
+border: 1px solid #1877F2;
+font-size: 15px; 
+padding-top: 10px;
+}
+.main .tital .subtital .rel .aaaa{
+ text-decoration: none;color: #1877F2;
+
+}
+.main .tital .subtital .rel .last{}
